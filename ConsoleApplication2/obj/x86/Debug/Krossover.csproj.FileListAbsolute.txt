@@ -19,4 +19,4 @@ C:\Users\dmotiani.STRUCTUREDWEB\Documents\Visual Studio 2010\Projects\Krossover\
 C:\Users\dmotiani.STRUCTUREDWEB\Documents\Visual Studio 2010\Projects\Krossover\ConsoleApplication2\bin\Debug\WebDriver.xml
 C:\Users\dmotiani.STRUCTUREDWEB\Documents\Visual Studio 2010\Projects\Krossover\ConsoleApplication2\bin\Debug\WebDriver.Support.pdb
 C:\Users\dmotiani.STRUCTUREDWEB\Documents\Visual Studio 2010\Projects\Krossover\ConsoleApplication2\bin\Debug\WebDriver.Support.xml
-C:\Users\dmotiani.STRUCTUREDWEB\Documents\Visual Studio 2010\Projects\Krossover\ConsoleApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dmotiani.STRUCTUREDWEB\Documents\Visual Studio 2010\Projects\Krossover\ConsoleApplication2\obj\x86\Debug\Krossover.csprojResolveAssemblyReference.cache

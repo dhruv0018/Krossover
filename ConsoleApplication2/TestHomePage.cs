@@ -34,8 +34,13 @@ namespace Krossover
                 try
                 {
                     //check if any of the links return a 404
+                    link.SendKeys(Keys.Control + Keys.Enter);
+                    driver.SwitchTo().Window(driver.WindowHandles.Last());
+
                     driver.FindElementByXPath("//div[contains(@class, '404')]");
                     log(link.GetAttribute("href") + " is broken.  Returned 404");
+
+                    driver.SwitchTo().Window(driver.WindowHandles.First());
                 }
                 catch
                 {
